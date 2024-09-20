@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/bin/Debug/net8.0/SumOfIntegerCouples
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/bin/Debug/net8.0/SumOfIntegerCouples.deps.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/bin/Debug/net8.0/SumOfIntegerCouples.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/bin/Debug/net8.0/SumOfIntegerCouples.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/bin/Debug/net8.0/SumOfIntegerCouples.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/refint/SumOfIntegerCouples.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/SumOfIntegerCouples.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/SumOfIntegerCouples/obj/Debug/net8.0/ref/SumOfIntegerCouples.dll
