@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/bin/Debug/net8.0/FindSecondConsonant
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/bin/Debug/net8.0/FindSecondConsonant.deps.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/bin/Debug/net8.0/FindSecondConsonant.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/bin/Debug/net8.0/FindSecondConsonant.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/bin/Debug/net8.0/FindSecondConsonant.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/refint/FindSecondConsonant.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/FindSecondConsonant.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/FindSecondConsonant/obj/Debug/net8.0/ref/FindSecondConsonant.dll

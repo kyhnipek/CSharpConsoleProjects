@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FindSecondConsonant/1.0.0": {
+        "runtime": {
+          "FindSecondConsonant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindSecondConsonant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
