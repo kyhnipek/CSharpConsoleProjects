@@ -1,0 +1,5 @@
+9/20/2024 10:11:19 PM, Login, Successfull
+9/20/2024 10:11:22 PM, Withdraw Money, 2300 TL money deposit successfull, current balance: 2300 TL
+9/20/2024 10:11:26 PM, Withdraw Money, 1000 TL money withdraw successfull, current balance: 1300 TL
+9/20/2024 10:11:30 PM, Withdraw Money, 500 TL send toveli successfully, current balance: 800 TL
+9/20/2024 10:13:32 PM, Login, Successfull
