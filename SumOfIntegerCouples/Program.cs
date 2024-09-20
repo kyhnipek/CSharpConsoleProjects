@@ -7,11 +7,6 @@
 
 int[] arr = Array.ConvertAll(Console.ReadLine().Split(" "), int.Parse);
 
-foreach (var item in arr)
-{
-    Console.WriteLine(item);
-}
-
 for (int i = 0; i < arr.Length; i += 2)
 {
     if (arr[i] == arr[i + 1])

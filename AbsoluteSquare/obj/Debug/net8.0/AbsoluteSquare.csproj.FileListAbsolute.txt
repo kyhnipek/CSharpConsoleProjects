@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/bin/Debug/net8.0/AbsoluteSquare
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/bin/Debug/net8.0/AbsoluteSquare.deps.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/bin/Debug/net8.0/AbsoluteSquare.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/bin/Debug/net8.0/AbsoluteSquare.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/bin/Debug/net8.0/AbsoluteSquare.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/refint/AbsoluteSquare.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/AbsoluteSquare.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/AbsoluteSquare/obj/Debug/net8.0/ref/AbsoluteSquare.dll
