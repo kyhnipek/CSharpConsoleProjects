@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/bin/Debug/net8.0/CharacterChange
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/bin/Debug/net8.0/CharacterChange.deps.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/bin/Debug/net8.0/CharacterChange.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/bin/Debug/net8.0/CharacterChange.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/bin/Debug/net8.0/CharacterChange.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/refint/CharacterChange.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/CharacterChange.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/CharacterChange/obj/Debug/net8.0/ref/CharacterChange.dll
