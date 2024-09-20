@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/bin/Debug/net8.0/AreaCalculator
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/bin/Debug/net8.0/AreaCalculator.deps.json
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/bin/Debug/net8.0/AreaCalculator.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/bin/Debug/net8.0/AreaCalculator.dll
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/bin/Debug/net8.0/AreaCalculator.pdb
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.dll
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/refint/AreaCalculator.dll
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.pdb
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/AreaCalculator.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharp1PatikaProjeleri/AreaCalculator/obj/Debug/net8.0/ref/AreaCalculator.dll
