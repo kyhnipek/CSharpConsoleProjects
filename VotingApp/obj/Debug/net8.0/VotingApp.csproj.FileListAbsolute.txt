@@ -1,0 +1,15 @@
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/bin/Debug/net8.0/VotingApp
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/bin/Debug/net8.0/VotingApp.deps.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/bin/Debug/net8.0/VotingApp.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/bin/Debug/net8.0/VotingApp.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/bin/Debug/net8.0/VotingApp.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.sourcelink.json
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/refint/VotingApp.dll
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.pdb
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/VotingApp.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/VotingApp/obj/Debug/net8.0/ref/VotingApp.dll
