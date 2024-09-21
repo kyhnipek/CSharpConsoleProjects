@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfIntegerCouples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c6161b2d18dcab7e2251ee34c49e72fae1c7bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18502483e5503dd1a59bdba34476b69162be6179")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfIntegerCouples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfIntegerCouples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

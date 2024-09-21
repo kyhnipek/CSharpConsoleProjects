@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindSecondConsonant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efdacfb8c388f5a5f7550bf5f0e6369d2770491c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18502483e5503dd1a59bdba34476b69162be6179")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindSecondConsonant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindSecondConsonant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
