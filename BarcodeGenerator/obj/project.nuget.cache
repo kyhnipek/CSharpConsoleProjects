@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqHCkCdJ1Yo=",
+  "success": true,
+  "projectFilePath": "/Users/kayhanipek/Documents/Projects/CSharpConsoleProjects/BarcodeGenerator/BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/kayhanipek/.nuget/packages/skiasharp/2.88.7/skiasharp.2.88.7.nupkg.sha512",
+    "/Users/kayhanipek/.nuget/packages/skiasharp.nativeassets.macos/2.88.7/skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "/Users/kayhanipek/.nuget/packages/skiasharp.nativeassets.win32/2.88.7/skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "/Users/kayhanipek/.nuget/packages/zxing.net/0.16.9/zxing.net.0.16.9.nupkg.sha512",
+    "/Users/kayhanipek/.nuget/packages/zxing.net.bindings.skiasharp/0.16.14/zxing.net.bindings.skiasharp.0.16.14.nupkg.sha512"
+  ],
+  "logs": []
+}
